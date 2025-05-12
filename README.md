@@ -19,4 +19,4 @@ Amazon sales data from 2025 showing transaction details including dates, product
 ## Dataset used
 - <a href ="https://github.com/20celeste/Amazon-Sales-Data-Analysis/blob/main/amazon_sales_data%202025.csv">Dataset</a>
 ## Dashboard link
--<a href = "">View Dashboard</a>
+-<a href = "https://github.com/20celeste/Amazon-Sales-Data-Analysis/blob/main/chart.png">View Dashboard</a>
